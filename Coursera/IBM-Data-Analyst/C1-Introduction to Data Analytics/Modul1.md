@@ -30,7 +30,7 @@ Career Path: Associate Data Analyst -> Data Analyst -> Senior DA -> Lead DA -> P
 - **6. Presenting your findings**  
   Communicating and showcasing your insights in clear, impactful, and convincing ways.
 
-### Quizz
+## 1.4 Quizz
   ### Quizz 1
   ![image](https://github.com/user-attachments/assets/bf943b7b-5af6-4655-a53a-0d1e0b4f7a33)
   ![image](https://github.com/user-attachments/assets/0251da2c-7d1c-43d2-bd28-e39c3b1a1904)
@@ -42,7 +42,10 @@ Career Path: Associate Data Analyst -> Data Analyst -> Senior DA -> Lead DA -> P
   ![image](https://github.com/user-attachments/assets/653a8988-a03c-4b6e-8f23-cf1a4e2857ab)
 
 # 2. The Data Analyst Role
-
+## 2.1 Skill for DA
+### 2.1.1 Technical Skill
+### 2.1.2 Functional Skill
+### 2.1.3 Soft Skill
 
 
 
