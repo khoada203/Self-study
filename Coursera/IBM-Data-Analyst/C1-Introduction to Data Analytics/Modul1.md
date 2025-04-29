@@ -30,3 +30,6 @@ Career Path: Associate Data Analyst -> Data Analyst -> Senior DA -> Lead DA -> P
   Evaluating the results, assessing the defendability of your analysis, and noting circumstances under which it may not hold true.
 - **6. Presenting your findings**  
   Communicating and showcasing your insights in clear, impactful, and convincing ways.
+
+  ## 1. What is Data Analytics
+
