@@ -44,8 +44,43 @@ Career Path: Associate Data Analyst -> Data Analyst -> Senior DA -> Lead DA -> P
 # 2. The Data Analyst Role
 ## 2.1 Skill for DA
 ### 2.1.1 Technical Skill
+- **Expertise in using spreadsheets**  
+  Microsoft Excel or Google Sheets
+- **Proficiency in statistical analysis and visualization tools and software**  
+  IBM Cognos, IBM SPSS, Oracle Visual Analyzer, Microsoft Power BI, SAS, and Tableau
+- **Proficiency in programming languages**  
+  R, Python, C++, Java, and MATLAB
+- **Good knowledge of SQL and ability to work with data in relational and NoSQL databases**
+- **The ability to access and extract data from data repositories**  
+  Data Marts, Data Warehouses, Data Lakes, and Data Pipelines
+- **Familiarity with Big Data processing tools**  
+  Hadoop, Hive, and Spark
+
 ### 2.1.2 Functional Skill
+- **Proficiency in Statistics**  
+  Analyze data, validate the analysis, identify fallacies and logical errors
+- **Analytical skills**  
+  Research and interpret data, theorize, make forecasts
+- **Problem-solving skills**  
+  Come up with possible solutions for a given problem
+- **Probing skills**  
+  Identify and define the problem statement and desired outcome
+- **Data Visualization skills**  
+  Create clear and compelling visualizations to present the analysis
+- **Project Management skills**  
+  Manage the process, people, dependencies, and timelines
+
+
 ### 2.1.3 Soft Skill
+- **Your ability to**
+  + Work collaboratively with business and cross-functional teams  
+  + Communicate effectively to report and present your findings  
+  + Tell a compelling and convincing story  
+  + Gather support and buy-in for your work  
+- **Curiosity**  
+  + Allowing new questions to surface and challenging your own assumptions and hypotheses  
+- **Intuition**  
+  + Having a sense of the future based on pattern recognition and past experiences  
 
 
 
