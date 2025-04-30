@@ -82,6 +82,32 @@ Career Path: Associate Data Analyst -> Data Analyst -> Senior DA -> Lead DA -> P
 - **Intuition**  
   + Having a sense of the future based on pattern recognition and past experiences  
 
+## 2.2 Generative AI
+### 2.2.1 What are some examples of generative AI tools?
+- Text generation tools include GPT, Jasper, AI-Writer, and Lex.
+- Image generation tools include Dall-E 2, Midjourney, and Stable Diffusion.
+- Music generation tools include Amper, Dadabots, and MuseNet.
+- Code generation tools include codeStarter, Codex, GitHub Copilot, and Tabnine.
+- Voice synthesis tools include Descript, Listnr, and Podcast.ai.
+- AI chip design tool companies include Synopsys, Cadence, Google, and NVIDIA.
+
+### 2.2.2 Applications of generative AI in data analytics
+- **Data augmentation:** Create synthetic data to augment existing data sets, which is especially useful when data is scarce or imbalanced. This can improve predictive model performance.
+- **Anomaly Detection:** Identify anomalies or outliers by understanding the distribution of normal data. This is valuable in fraud detection, network security, and quality control.
+- **Text and image generation:** Generate realistic text and images for marketing, content creation, and customer engagement, such as automatic product descriptions and marketing visuals.
+- **Simulation and forecasting:** Simulate scenarios and forecast future events by generating potential outcomes from historical data. This is crucial in financial planning, supply chain management, and strategic decision-making.
+
+## 2.3 Quizz
+### Quizz 1
+![image](https://github.com/user-attachments/assets/b59f5b7d-0e82-440f-8784-d8bdaad6b0b9)
+
+### Quizz 2
+![image](https://github.com/user-attachments/assets/0f417e2b-6d6a-4d91-a475-f0f42d9c9927)
+![image](https://github.com/user-attachments/assets/d62b18af-62a9-44e6-9b8d-03b5b2eb6afe)
+![image](https://github.com/user-attachments/assets/6f251095-dd6f-4304-8408-2a573a8cd819)
+
+
+
 
 
 
