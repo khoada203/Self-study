@@ -1,4 +1,4 @@
-# Understand the data ecosystem
+# 1. Understand the data ecosystem
 
 ## 6 giai đoạn trong phân tích dữ liệu:
 1. **Ask phase:** you’ll work to understand the challenge to be solved or the question to be  answered. It will likely be assigned to you by stakeholders. As this is the ask phase, you’ll ask many questions to help you along the way.
@@ -44,13 +44,13 @@
 ![image](https://github.com/user-attachments/assets/c573f9db-7e81-4bd6-9e2d-1bfac5bb3b6e)
 
 
-# Analytical thinking for effective outcomes
+# 2. Analytical thinking for effective outcomes
 ## Practice
 ![image](https://github.com/user-attachments/assets/a4760484-bef0-4892-802f-0a000088a20c)
 ![image](https://github.com/user-attachments/assets/1804e414-1995-460d-bd95-488dd93cb4b4)
 
 
-# Grade assignment
+# 3. Grade assignment
 ![image](https://github.com/user-attachments/assets/faed6f14-6c4d-457a-ab01-e5ae4fc2a324)
 ![image](https://github.com/user-attachments/assets/85584108-e865-42e2-bcdd-ab23a96f4517)
 ![image](https://github.com/user-attachments/assets/3e760eb7-d28f-43fb-ab50-3dc4471d2c6b)
