@@ -24,3 +24,10 @@
 ## Practice
 ![image](https://github.com/user-attachments/assets/1c760281-dafa-4597-a68e-c8c5c76f5976)
 ![image](https://github.com/user-attachments/assets/0ef9baa0-1a97-44f7-8c96-728d07d9f759)
+
+# Graded Assignment
+![image](https://github.com/user-attachments/assets/cd46ddb2-023e-4c4b-aece-3ed5766dcfe4)
+![image](https://github.com/user-attachments/assets/7909b08c-25e9-436e-9ae5-7a7ec9806d74)
+![image](https://github.com/user-attachments/assets/10749918-3557-4725-b171-ff8b654bd6b9)
+![image](https://github.com/user-attachments/assets/bcfdf7d5-6356-4b35-bee6-e0a79c2b6ba1)
+
