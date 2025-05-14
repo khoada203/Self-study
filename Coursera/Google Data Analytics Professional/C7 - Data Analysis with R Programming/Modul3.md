@@ -5,3 +5,6 @@
 
 # Cleaning data
 ## Practice
+![image](https://github.com/user-attachments/assets/55b2dfe1-daac-4e6c-8d60-976c4a0129c6)
+![image](https://github.com/user-attachments/assets/1fe86a7c-1210-4c99-8810-45fd6ea84d81)
+![image](https://github.com/user-attachments/assets/12d979c5-56e7-4e71-b827-917d012a7b35)
