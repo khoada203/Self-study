@@ -4,4 +4,3 @@
 - Truy cập dữ liệu khó khăn
 - Vấn đề bảo mật
 - Khó truy cập đồng thời
-- 
