@@ -15,6 +15,7 @@
 - Rhythm
 - Variety
 - Unity
+
 ![image](https://github.com/user-attachments/assets/522a3cdc-96f1-4ae2-88b8-82f72d8c0524)
 
 ## Design thinking for visualization improvement
