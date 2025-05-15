@@ -8,7 +8,6 @@
 # First steps toward clean data
 ## Common data-cleaning pitfalls
 - Not checking for spelling errors
-- Not checking for spelling errors
 - Not checking for misfielded values
 - Overlooking missing values
 - Only looking at a subset of the data
