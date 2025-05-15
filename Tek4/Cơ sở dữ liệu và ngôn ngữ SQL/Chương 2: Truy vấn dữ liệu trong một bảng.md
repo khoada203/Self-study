@@ -23,8 +23,3 @@ SELECT *
 FROM xe 
 WHERE gia > 1000000000;
 
-<span style="color: blue;">
-SELECT *
-FROM xe 
-WHERE gia > 1000000000;
-</span>
