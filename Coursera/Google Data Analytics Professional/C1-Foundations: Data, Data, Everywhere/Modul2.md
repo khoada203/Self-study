@@ -1,10 +1,10 @@
 # Data life cycle
-**1. Plan
-2. Capture
-3. Manage
-4. Analyze
-5. Archive
-6. Destroy**
+1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+2. Capture: Collect or bring in data from a variety of different sources.
+3. Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+4. Analyze: Use the data to solve problems, make decisions, and support business goals.
+5. Archive: Keep relevant data stored for long-term and future reference.
+6. Destroy: Remove data from storage and delete any shared copies of the data.
 
 ## Practice 1
 ![image](https://github.com/user-attachments/assets/75a2058e-9de5-4b3a-9180-65729f05a6de)
