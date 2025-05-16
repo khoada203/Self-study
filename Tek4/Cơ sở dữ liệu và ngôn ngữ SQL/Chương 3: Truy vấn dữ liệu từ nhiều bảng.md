@@ -1,4 +1,12 @@
 # Mục lục
+- [1. Trích xuất dữ liệu từ nhiều bảng](#1-trích-xuất-dữ-liệu-từ-nhiều-bảng)
+- [2. Kết hợp các bảng dựa trên điều kiện](#2-kết-hợp-các-bảng-dựa-trên-điều-kiện)
+- [3. Sử dụng JOIN để kết hợp các bảng](#3-sử-dụng-join-để-kết-hợp-các-bảng)
+- [4. Trích xuất cột cụ thể](#4-trích-xuất-cột-cụ-thể)
+- [5. Tham chiếu đến cột mà không sử dụng tên bảng](#5-tham-chiếu-đến-cột-mà-không-sử-dụng-tên-bảng)
+- [6. Đổi tên cột bằng từ khóa AS](#6-đổi-tên-cột-bằng-từ-khóa-as)
+- [7. Chọn lọc dữ liệu từ các bảng kết hợp](#7-chọn-lọc-dữ-liệu-từ-các-bảng-kết-hợp)
+- [8. Thực hành](#8-thực-hành)
 
 # 1. Trích xuất dữ liệu từ nhiều bảng
 ```
