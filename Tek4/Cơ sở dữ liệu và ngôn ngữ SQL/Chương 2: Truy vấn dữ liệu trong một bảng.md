@@ -15,7 +15,7 @@
 - [10. Kết hợp nhiều điều kiện](#10-kết-hợp-nhiều-điều-kiện)
 - [11. Dữ liệu văn bản](#11-dữ-liệu-văn-bản)
 - [12. Ký hiệu phần trăm (%)](#12-ký-hiệu-phần-trăm-)
-- [13. Ký hiệu gạch dưới](#13-ký-hiệu-gạch-dưới-)
+- [13. Ký hiệu gạch dưới](#13-ký-hiệu-gạch-dưới)
 - [14. Tìm các giá trị KHÔNG NULL và NULL](#14-tìm-các-giá-trị-không-null-và-null)
   - [14.1 Tìm giá trị KHÔNG NULL](#141-tìm-giá-trị-không-null)
   - [14.2 Tìm giá trị NULL](#142-tìm-giá-trị-null)
