@@ -66,3 +66,40 @@ JOIN dao_dien
   ON phim.ma_dao_dien = dao_dien.id 
 WHERE dao_dien.ten = 'Joe Russo'
 ```
+# 8. Thực hành
+**Bài tập 1:** 
+- Đưa ra thông tin gồm tiêu đề và năm sản xuất từ bảng phim và cột ten và nam_sinh từ bảng dao_dien sao cho đầu ra hiển thị tên phim cùng với đạo diễn của phim.
+- Đổi tên cột nam_sinh thành born_in. Chỉ chọn những bộ phim được quay bởi đạo diễn dưới 40 tuổi (tức là giá trị chênh lệch giữa nam_san_xuat và nam_sinh phải nhỏ hơn 40).
+```
+SELECT 
+  phim.tieu_de,
+  phim.nam_san_xuat,
+  dao_dien.ten,
+  dao_dien.nam_sinh AS born_in
+FROM phim
+JOIN dao_dien
+  ON ma_dao_dien = dao_dien.id
+WHERE (nam_san_xuat - nam_sinh) < 40;
+```
+**Bài tập 2:**
+- Đưa ra thông tin gồm id, tieu_de và nam_san_xuat từ bảng phim và cột ten và nam_sinh từ bảng dao_dien sao cho đầu ra hiển thị tên phim cùng với đạo diễn của phim.
+- Đổi tên cột nam_sinh thành born_in và tên cột nam_san_xuat thành produced_in. Và chỉ chọn những bộ phim thỏa mãn các điều kiện sau:
+  + Có tên phim chứa một chữ cái 'a' và được quay sau năm 2000,
+  + hoặc được quay bởi đạo diễn sinh từ năm 1945 đến 1995.
+```
+SELECT 
+  phim.id,
+  phim.tieu_de,
+  phim.nam_san_xuat AS produced_in,
+  
+  dao_dien.ten,
+  dao_dien.nam_sinh AS born_in
+  
+FROM phim
+JOIN dao_dien
+  ON phim.ma_dao_dien = dao_dien.id
+
+WHERE phim.tieu_de LIKE '%a%'
+  AND phim.nam_san_xuat > 2000
+  OR dao_dien.nam_sinh BETWEEN 1954 AND 1995;
+```
