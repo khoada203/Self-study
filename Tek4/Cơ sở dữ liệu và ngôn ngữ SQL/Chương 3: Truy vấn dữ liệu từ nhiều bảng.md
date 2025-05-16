@@ -85,7 +85,7 @@ WHERE (nam_san_xuat - nam_sinh) < 40;
 - Đưa ra thông tin gồm id, tieu_de và nam_san_xuat từ bảng phim và cột ten và nam_sinh từ bảng dao_dien sao cho đầu ra hiển thị tên phim cùng với đạo diễn của phim.
 - Đổi tên cột nam_sinh thành born_in và tên cột nam_san_xuat thành produced_in. Và chỉ chọn những bộ phim thỏa mãn các điều kiện sau:
   + Có tên phim chứa một chữ cái 'a' và được quay sau năm 2000,
-  + hoặc được quay bởi đạo diễn sinh từ năm 1945 đến 1995.
+  + HOẶC được quay bởi đạo diễn sinh từ năm 1945 đến 1995.
 ```
 SELECT 
   phim.id,
