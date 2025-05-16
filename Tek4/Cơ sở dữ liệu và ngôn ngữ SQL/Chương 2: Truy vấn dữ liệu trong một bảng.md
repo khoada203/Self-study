@@ -1,3 +1,28 @@
+
+# Mục lục
+- [1. Trích xuất dữ liệu](#1-trích-xuất-dữ-liệu)
+- [2. Lựa chọn một cột](#2-lựa-chọn-một-cột)
+- [3. Lựa chọn nhiều cột](#3-lựa-chọn-nhiều-cột)
+- [4. Chọn một vài hàng](#4-chọn-một-vài-hàng)
+- [5. Toán tử điều kiện](#5-toán-tử-điều-kiện)
+- [6. Toán tử không bằng (!=)](#6-toán-tử-không-bằng-)
+- [7. Toán tử điều kiện và chọn cột](#7-toán-tử-điều-kiện-và-chọn-cột)
+- [8. Toán tử Logic](#8-toán-tử-logic)
+  - [8.1 OR](#81-or)
+  - [8.2 AND](#82-and)
+  - [8.3 NOT](#83-not)
+- [9. Toán tử BETWEEN](#9-toán-tử-between)
+- [10. Kết hợp nhiều điều kiện](#10-kết-hợp-nhiều-điều-kiện)
+- [11. Dữ liệu văn bản](#11-dữ-liệu-văn-bản)
+- [12. Ký hiệu phần trăm (%)](#12-ký-hiệu-phần-trăm-)
+- [13. Ký hiệu gạch dưới (_)](#13-ký-hiệu-gạch-dưới-)
+- [14. Tìm các giá trị KHÔNG NULL và NULL](#14-tìm-các-giá-trị-không-null-và-null)
+  - [14.1 Tìm giá trị KHÔNG NULL](#141-tìm-giá-trị-không-null)
+  - [14.2 Tìm giá trị NULL](#142-tìm-giá-trị-null)
+  - [14.3 So sánh với NULL](#143-so-sánh-với-null)
+- [15. Các toán tử toán học cơ bản](#15-các-toán-tử-toán-học-cơ-bản)
+- [16. Thực hành](#16-thực-hành)
+
 # 1. Trích xuất dữ liệu
 ```
 SELECT *
