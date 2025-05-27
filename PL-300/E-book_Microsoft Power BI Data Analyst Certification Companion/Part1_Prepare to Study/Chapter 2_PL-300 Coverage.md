@@ -10,11 +10,11 @@
 | Có thể dùng không cần đăng nhập Power BI Service | Áp dụng ETL: Trích xuất, Biến đổi, Tải dữ liệu | Truy cập qua [app.powerbi.com](https://app.powerbi.com) |
 | Không đăng nhập thì không xuất bản được báo cáo | Các kỹ năng trong PQE dùng được ở cả Excel & Service | Đăng nhập bằng Office 365 để dùng bản miễn phí/thử |
 | Là môi trường phát triển, cần tư duy của nhà phát triển | Tính năng mới được phát hành theo thứ tự: PQE Service → PQE Desktop → PQE Excel | Từ Desktop có thể xuất bản trực tiếp lên Service |
-| Không chia sẻ PBIX cho người khác cùng chỉnh sửa được | - | Các khu vực chính: My Workspace, Workspaces, Apps |
-| Không có phiên bản cho Mac | - | Tài khoản Power BI miễn phí chỉ dùng được My Workspace |
-| Cần máy cấu hình tối thiểu 8GB RAM (tốt nhất 16–32GB) | - | Dùng Power BI Pro miễn phí 60 ngày để dùng đầy đủ Service |
-| Không chia sẻ trực tiếp, không dùng online | - | Có thể nhúng dashboard vào sản phẩm khác |
-| Có cập nhật 10 lần/tháng nếu cài từ Store | - | - |
+| Không chia sẻ PBIX cho người khác cùng chỉnh sửa được |   | Các khu vực chính: My Workspace, Workspaces, Apps |
+| Không có phiên bản cho Mac |   | Tài khoản Power BI miễn phí chỉ dùng được My Workspace |
+| Cần máy cấu hình tối thiểu 8GB RAM (tốt nhất 16–32GB) |   | Dùng Power BI Pro miễn phí 60 ngày để dùng đầy đủ Service |
+| Không chia sẻ trực tiếp, không dùng online |   | Có thể nhúng dashboard vào sản phẩm khác |
+| Có cập nhật 10 lần/tháng nếu cài từ Store |   |   |
 
 # Phân biệt
 ## 3.1 Report và Dashboard
