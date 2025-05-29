@@ -1,3 +1,16 @@
+## Mục Lục
+
+1. [Mục tiêu PL-300](#1-mục-tiêu-pl-300)
+2. [Các công cụ Power BI](#2-các-công-cụ-power-bi)
+3. [Phân biệt](#3-phân-biệt)  
+   3.1 [Report và Dashboard](#31-report-và-dashboard)  
+   3.2 [Workspaces, My workspace, và Apps](#32-workspaces-my-workspace-và-apps)
+4. [Cấp phép (Licensing)](#4-cấp-phép-licensing)
+5. [Ngôn ngữ Power BI](#5-ngôn-ngữ-power-bi)
+6. [Luyện tập trước PL-300](#6-luyện-tập-trước-pl-300)
+7. [Nội dung sách (Cách tiếp cận)](#7-nội-dung-sách-cách-tiếp-cận)
+
+
 # 1. Mục tiêu PL-300
 - **PL-300 là kỳ thi "phổ rộng":** Kỳ thi PL-300 bao gồm các lĩnh vực toàn diện từ Power Query Editor (PQE) đến Power BI Desktop và Power BI Service.
 - **Hệ sinh thái Power BI và Thuật ngữ Cơ sở dữ liệu:** Power BI có nguồn gốc sâu sắc từ công nghệ cơ sở dữ liệu, do đó có nhiều thuật ngữ liên quan đến cơ sở dữ liệu.
@@ -16,7 +29,7 @@
 | Không chia sẻ trực tiếp, không dùng online |   | Có thể nhúng dashboard vào sản phẩm khác |
 | Có cập nhật 10 lần/tháng nếu cài từ Store |   |   |
 
-# Phân biệt
+# 3. Phân biệt
 ## 3.1 Report và Dashboard
 | **Reports**                                                                                      | **Dashboards**                                                                                           |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -68,7 +81,7 @@
   + Bước 3: Cài đặt Microsoft SQL Server trên thiết bị cục bộ để lưu trữ cơ sở dữ liệu, HOẶC thiết lập tài khoản Azure AD và sử dụng tùy chọn Azure SQL Server (cần kết nối Internet và lưu ý chi phí).
   + Bước 4: Sử dụng SSMS để khôi phục cơ sở dữ liệu từ tệp BAK (cần tham khảo hướng dẫn chi tiết của Microsoft).
   + Bước 5: Sử dụng thông tin đăng nhập đã thiết lập cho cơ sở dữ liệu để kết nối từ Power BI Desktop.
-# 8. Nội dung sách (Cách tiếp cận)
+# 7. Nội dung sách (Cách tiếp cận)
 - Sách giải thích một tính năng ("what is") và tại sao lại quan trọng để hiểu nó ("why").
 - Bao gồm các tính năng và khái niệm được coi là quan trọng cho một người thực hành Power BI toàn diện, ngay cả khi chúng không xuất hiện trực tiếp trong kỳ thi PL-300.
 - Không đi sâu vào chi tiết "how-to" vì tính năng trong Power BI thay đổi liên tục.
