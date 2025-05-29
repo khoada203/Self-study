@@ -1,3 +1,19 @@
+# Mục Lục
+
+1. [Kết nối dữ liệu](#1-kết-nối-dữ-liệu)
+2. [Nhập thông tin đăng nhập](#2-nhập-thông-tin-đăng-nhập)
+3. [Thay đổi cài đặt nguồn dữ liệu](#3-thay-đổi-cài-đặt-nguồn-dữ-liệu)  
+   3.1 [Mức độ riêng tư (Privacy Levels)](#31-mức-độ-riêng-tư-privacy-levels)
+4. [Chọn chế độ lưu trữ (Storage Mode)](#4-chọn-chế-độ-lưu-trữ-storage-mode)
+5. [Sử dụng các nguồn dữ liệu khác nhau](#5-sử-dụng-các-nguồn-dữ-liệu-khác-nhau)  
+   5.1 [Dataverse](#51-dataverse)  
+   5.2 [Dataflows](#52-dataflows)  
+   5.3 [Shared Dataset (Bộ dữ liệu được chia sẻ)](#53-shared-dataset-bộ-dữ-liệu-được-chia-sẻ)  
+   5.4 [Local Dataset (Bộ dữ liệu cục bộ)](#54-local-dataset-bộ-dữ-liệu-cục-bộ)  
+   5.5 [Sử dụng Thư mục và Thư mục SharePoint](#55-sử-dụng-thư-mục-và-thư-mục-sharepoint)
+6. [Tham số (Parameters)](#6-tham-số-parameters)
+
+
 # 1. Kết nối dữ liệu
 - Power BI cung cấp nhiều tùy chọn kết nối đến các nguồn dữ liệu khác nhau, được gọi là "connectors".
 - Quan trọng là phải biết các trình kết nối được sử dụng phổ biến cho kỳ thi PL-300 và trong thực tế.
