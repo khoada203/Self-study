@@ -1,3 +1,21 @@
+# Mục Lục
+
+1. [Tại sao phải thi chứng chỉ?](#1-tại-sao-phải-thi-chứng-chỉ)
+2. [Khi nào nên thi?](#2-khi-nào-nên-thi)
+3. [Thế nào là tự tin hợp lý?](#3-thế-nào-là-tự-tin-hợp-lý)
+4. [Các bước trước khi thi](#4-các-bước-trước-khi-thi)  
+   4.1 [Đăng ký](#41-đăng-ký)  
+   4.2 [Thi trực tuyến hay tại trung tâm](#42-thi-trực-tuyến-hay-tại-trung-tâm)  
+   4.3 [Chọn khung thời gian](#43-chọn-khung-thời-gian)  
+   4.4 [Đánh dấu lịch](#44-đánh-dấu-lịch)  
+   4.5 [Hủy hoặc đổi lịch](#45-hủy-hoặc-đổi-lịch)
+5. [Định dạng bài thi](#5-định-dạng-bài-thi)
+6. [Mẹo chung khi thi](#6-mẹo-chung-khi-thi)
+7. [Sau khi thi](#7-sau-khi-thi)  
+   7.1 [Đã đậu](#71-đã-đậu)  
+   7.2 [Đã trượt](#72-đã-trượt)
+
+
 # 1. Tại sao phải thi chứng chỉ?
 - Chứng chỉ là một cách có giá trị để chứng minh chuyên môn của bạn, đặc biệt nếu bạn chưa có danh tiếng hoặc mạng lưới rộng lớn trong cộng đồng Power BI.
 - Các bài kiểm tra chứng chỉ của Microsoft rất "nghiêm ngặt và toàn diện".
