@@ -1,3 +1,11 @@
+# MỤC LỤC
+1. [Vai trò của DAX trong Mô hình Dữ liệu](#1-vai-trò-của-dax-trong-mô-hình-dữ-liệu)
+2. [Bảng tính toán (Calculated Tables)](#2-bảng-tính-toán-calculated-tables)
+3. [Cột tính toán (Calculated Columns)](#3-cột-tính-toán-calculated-columns)
+4. [Tinh chỉnh Mô hình (Refining Your Model)](#4-tinh-chỉnh-mô-hình-refining-your-model)
+5. [Thiết lập Chức năng Q&A](#5-thiết-lập-chức-năng-qa)
+6. [Bảo mật (Security)](#6-bảo-mật-security)
+
 # 1. Vai trò của DAX trong Mô hình Dữ liệu
 - DAX là ngôn ngữ được sử dụng để thực hiện bốn loại nội dung trong Power BI Desktop: Bảng tính toán (Calculated tables), Cột tính toán (Calculated columns), Biện pháp đo lường (Measures) và Vai trò bảo mật (Security roles).
 - Nguồn tài liệu khuyến cáo thêm dữ liệu "càng sớm càng tốt" (upstream) ở nguồn dữ liệu gốc hoặc Power Query Editor.
