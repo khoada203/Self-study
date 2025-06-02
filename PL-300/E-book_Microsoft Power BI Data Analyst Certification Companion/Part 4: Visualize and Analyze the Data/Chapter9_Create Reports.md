@@ -1,3 +1,19 @@
+# Mục lục
+
+1. [Phân biệt Báo cáo và Bảng điều khiển](#1-phân-biệt-báo-cáo-và-bảng-điều-khiển)
+2. [Canvas (Vùng làm việc)](#2-canvas-vùng-làm-việc)
+3. [Tiêu chuẩn hóa Thiết kế và Giao diện](#3-tiêu-chuẩn-hóa-thiết-kế-và-giao-diện)
+4. [Chủ đề Tích hợp và Tùy chỉnh](#4-chủ-đề-tích-hợp-và-tùy-chỉnh)
+5. [Khả năng Tiếp cận (Accessibility)](#5-khả-năng-tiếp-cận-accessibility)
+6. [Trực quan hóa (Visualizations)](#6-trực-quan-hóa-visualizations)
+7. [Cấu hình Hình ảnh trực quan](#7-cấu-hình-hình-ảnh-trực-quan)
+8. [Cắt lát (Slicing) và Lọc (Filtering)](#8-cắt-lát-slicing-và-lọc-filtering)
+9. [Drill-Through](#9-drill-through)
+10. [Định dạng có điều kiện (Conditional Formatting)](#10-định-dạng-có-điều-kiện-conditional-formatting)
+11. [Các Yếu tố Trang khác](#11-các-yếu-tố-trang-khác)
+12. [Báo cáo Phân trang (Paginated Reports)](#12-báo-cáo-phân-trang-paginated-reports)
+
+
 # 1. Phân biệt Báo cáo và Bảng điều khiển
 - Mặc dù người dùng thường dùng các thuật ngữ này thay thế cho nhau, trong Power BI, chúng là hai yếu tố riêng biệt.
 - **Báo cáo:** Được tạo trong Power BI Desktop hoặc Power BI Service, có nhiều trang, phải dựa trên mô hình dữ liệu, có thể chia sẻ qua ứng dụng, và không thể chứa nội dung streaming.
