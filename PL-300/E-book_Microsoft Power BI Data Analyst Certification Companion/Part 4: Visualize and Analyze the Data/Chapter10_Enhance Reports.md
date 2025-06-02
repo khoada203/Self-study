@@ -1,3 +1,14 @@
+# Mục lục
+
+1. [Chỉ định thứ tự sắp xếp (Specifying a Sort Order)](#1-chỉ-định-thứ-tự-sắp-xếp-specifying-a-sort-order)
+2. [Điều khiển mở rộng và truy sâu (Expand Down and Drill Down Controls)](#2-điều-khiển-mở-rộng-và-truy-sâu-expand-down-and-drill-down-controls)
+3. [Tương tác giữa các hình ảnh trực quan (Interactions Between Visuals)](#3-tương-tác-giữa-các-hình-ảnh-trực-quan-interactions-between-visuals)
+4. [Đánh dấu (Bookmarks)](#4-đánh-dấu-bookmarks)
+5. [Chú giải công cụ (Tooltips)](#5-chú-giải-công-cụ-tooltips)
+6. [Trang chú giải công cụ (Tooltip Pages)](#6-trang-chú-giải-công-cụ-tooltip-pages)
+7. [Thiết kế cho thiết bị di động (Designing for Mobility)](#7-thiết-kế-cho-thiết-bị-di-động-designing-for-mobility)
+
+
 # 1. Chỉ định thứ tự sắp xếp (Specifying a Sort Order)
 - Đôi khi, các cột cần được sắp xếp khác với hành vi sắp xếp mặc định (ví dụ: sắp xếp tháng hoặc ngày trong tuần theo số, không phải theo tên).
 - Có thể tạo một cột tính toán chứa thứ tự sắp xếp và sau đó đặt cột liên quan để sắp xếp theo cột thứ tự sắp xếp mới.
