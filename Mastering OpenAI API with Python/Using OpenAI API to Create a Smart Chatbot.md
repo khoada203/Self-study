@@ -2,6 +2,11 @@
 1. Đăng nhập tài khoản openai
 2. Truy cập trang web và lấy API Key: https://platform.openai.com/settings/organization/api-keys
 
+## Cài đặt Openai trên terminal
+```
+pip install openai
+```
+
 ## Viết code python tạo chatbot
 Tạo file python (chatbot.py)
 ```
