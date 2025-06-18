@@ -1,3 +1,8 @@
+## Lấy API KEY
+1. Đăng nhập tài khoản openai
+2. Truy cập trang web và lấy API Key: https://platform.openai.com/settings/organization/api-keys
+
+## Viết code python tạo chatbot
 Tạo file python (chatbot.py)
 ```
 from openai import OpenAI
