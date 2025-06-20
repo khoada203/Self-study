@@ -1,3 +1,5 @@
+## 1. Cách đưa folder lên github
+
 1. Tải git
 2. Mở gitbash, cấu hình username và email
 (Search google "git config global" để tìm code cấu hình)
@@ -13,7 +15,7 @@ Gõ các lệnh sau:
 - **git commit -m"note_here"** (Lưu các thay đổi vào repository local với một thông điệp mô tả)
 - **git push origin master** (Đẩy các thay đổi từ repository local lên repository remote trên GitHub)
 
-## thay đổi code và đẩy lên git
+## 2. Thay đổi code và đẩy lên git
 **Chỉ cần gõ 3 lệnh sau:**
 1. git add.
 2. git commit -m"..."
